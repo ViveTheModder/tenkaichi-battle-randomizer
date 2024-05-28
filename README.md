@@ -1,8 +1,6 @@
 # tenkaichi-randomizer
 A random match generator for Budokai Tenkaichi 3.
 
-![image](https://github.com/ViveTheModder/tenkaichi-randomizer/assets/93151014/00a5737f-2bca-4c32-8fc7-292b84318b32)
-
 ![image](https://github.com/ViveTheModder/tenkaichi-randomizer/assets/93151014/a5a1e445-9a4e-4103-b383-6afc765c985c)
 
 Not to be confused with the [Random DP Team Generator](https://github.com/ViveTheModder/bt3-dp-team-gen) I made for the same game.
