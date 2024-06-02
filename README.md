@@ -24,5 +24,9 @@ The following are pretty much randomly generated:
 * Characters (obviously)
 * Equipped Costumes
 * Duel Time (60. 90, 180, 240, Infinite)
-* COM Difficulty (Very Weak, Weak, Average, Strong, Very Strong) 
+* COM Difficulty (Very Weak, Weak, Average, Strong, Very Strong)
+
 * Referee (Ox King, Videl, Supreme Kai, Shenron, Announcer 1-3)
+
+# Video Demonstration
+[![Tenkaichi Randomizer](https://github.com/ViveTheModder/tenkaichi-randomizer/assets/93151014/fabcd81a-4567-4333-86c9-a928db5b6bb0)](https://www.youtube.com/watch?v=VPKNgvXHEo0 "Tenkaichi Randomizer")
