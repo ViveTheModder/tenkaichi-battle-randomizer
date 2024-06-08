@@ -1,4 +1,4 @@
-# tenkaichi-randomizer
+# tenkaichi-battle-randomizer
 A random match generator for Budokai Tenkaichi 3.
 
 ![image](https://github.com/ViveTheModder/tenkaichi-randomizer/assets/93151014/a5a1e445-9a4e-4103-b383-6afc765c985c)
